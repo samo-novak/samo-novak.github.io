@@ -1,3 +1,6 @@
+This is the repository behind by [personal website](https://samo-novak.github.io/), using the Chirpy template. Original README.md follows:
+
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
