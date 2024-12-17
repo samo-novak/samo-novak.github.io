@@ -4,12 +4,12 @@ order: 1
 math: true
 ---
 
-# Quantum Error Correction
+## Quantum Error Correction
 
 aaaa
 
 
-# Classical Simulation
+## Classical Simulation
 
 
-# Publications
+## Papers
