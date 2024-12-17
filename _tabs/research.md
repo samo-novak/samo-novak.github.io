@@ -6,7 +6,7 @@ math: true
 
 ## Quantum Error Correction
 
-aaaa
+
 
 
 ## Classical Simulation
