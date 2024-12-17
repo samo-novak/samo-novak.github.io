@@ -9,6 +9,8 @@ The topic of my research is quantum error correction, especially the constructio
 
 I am a PhD student in the project-team [COSMIQ](https://www.rocq.inria.fr/secret/) at Inria, under supervision of [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier/) and [Christophe Vuillot](https://members.loria.fr/CVuillot/).
 
+Previously, I worked on classical simulation of quantum optics, see more [here](research#classical-simulation).
+
 
 # Contact
 
