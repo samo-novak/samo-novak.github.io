@@ -19,7 +19,8 @@ Previously, I worked also on classical simulation of quantum optics, see more [h
 **Address:**
 
 > Office B310  
-> Centre de recherche Inria de Paris  
+> Centre Inria de Paris  
 > 48 rue Barrault  
-> 75013 Paris  
+> CS61534
+> 75647 PARIS CEDEX  
 > France
