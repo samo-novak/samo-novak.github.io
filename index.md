@@ -10,7 +10,7 @@ I am a PhD student in the project-team [COSMIQ](https://www.rocq.inria.fr/secret
 The topic of my research is quantum error correction, especially the construction of error correcting codes and the search for fault-tolerance. I focus on homological rotor codes: in short, codes that can be defined by chain complexes of $\mathbb{Z}$-modules (cf. $\mathbb{F}_2$-vector spaces of usual error correction) and similar construction. You can find out more [here](research).
 
 
-Previously, I worked also on classical simulation of quantum optics, see more [here](research#classical-simulation).
+Previously, I worked also on classical simulation of quantum optics, specifically boson sampling. See more [here](research#classical-simulation).
 
 
 # Contact
