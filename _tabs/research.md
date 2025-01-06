@@ -16,6 +16,10 @@ WIP
 
 ### Papers
 
+- **Laplace expansions and tree decompositions: polytime algorithm for shallow nearest-neighbour Boson Sampling**.  
+  *Samo Novák, Raúl García-Patrón*.  
+  December 2024. [arXiv:2412.18664 [quant-ph]](https://arxiv.org/abs/2412.18664)
+
 - **Boundaries for quantum advantage with single photons and loop-based time-bin interferometers**.  
   *Samo Novák, David D. Roberts, Alexander Makarovskiy, Raúl García-Patrón, William R. Clements*.  
   November 2024. [arXiv:2411.16873 [quant-ph]](https://arxiv.org/abs/2411.16873)
