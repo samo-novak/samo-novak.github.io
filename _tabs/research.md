@@ -6,6 +6,8 @@ math: true
 
 ## Quantum Error Correction
 
+WIP
+
 
 ### Papers
 
@@ -14,9 +16,8 @@ math: true
   May 2024. [arXiv:2405.03559 [quant-ph]](https://arxiv.org/abs/2405.03559)
 
 
-## Classical Simulation
 
-WIP
+## Classical Simulation of Boson Sampling
 
 
 ### Papers
