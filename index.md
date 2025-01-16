@@ -20,6 +20,7 @@ Previously, I also worked on classical simulation of quantum optics, specificall
 **Address:**
 
 > Office B310  
+> EPI COSMIQ  
 > Centre Inria de Paris  
 > 48 rue Barrault  
 > CS61534  
