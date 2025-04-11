@@ -1,5 +1,5 @@
 ---
-icon: fas fa-microscope
+icon: fas fa-file-lines
 order: 2
 math: true
 ---
