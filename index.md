@@ -15,7 +15,7 @@ Previously, I also worked on classical simulation of quantum optics, specificall
 
 # Contact
 
-**Email:** `samuel (DOT) novak (AT) inria (DOT) fr`
+**Email:** `samo (DOT) novak (AT) inria (DOT) fr`
 
 **Address:**
 
