@@ -3,7 +3,7 @@ layout: page
 math: true
 ---
 
-# Research
+# About me
 
 I am a PhD student in the project-team [COSMIQ](https://www.rocq.inria.fr/secret/) at Inria, under the supervision of [Anthony Leverrier](https://sites.google.com/site/anthonyleverrier/) and [Christophe Vuillot](https://members.loria.fr/CVuillot/), since November 2024.
 

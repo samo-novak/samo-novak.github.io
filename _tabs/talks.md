@@ -1,5 +1,5 @@
 ---
-icon: fas fa-chalkboard-user
+icon: fas fa-person-chalkboard
 order: 3
 math: true
 ---
