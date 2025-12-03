@@ -1,19 +1,11 @@
 #  The contact options.
 
-- type: github
-  icon: "fab fa-github"
-
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-# - type: rss
-#   icon: "fas fa-rss"
-#   noblank: true
-
+- type: github
+  icon: "fab fa-github"
 # Uncomment and complete the url below to enable more contact options
 #
 - type: linkedin
@@ -43,3 +35,7 @@
 - type: orcid
   icon: 'fab fa-orcid'   # icons powered by <https://fontawesome.com/>
   url:  'https://orcid.org/0000-0002-2713-9593'
+
+- type: google-scholar
+  icon: 'fab fa-google-scholar'   # icons powered by <https://fontawesome.com/>
+  url:  'https://scholar.google.com/citations?user=N-08PR4AAAAJ'
